@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Valentines Flowers</title>
+  <style>
+    .top-column{
+      height: 100px;
+      background-color:#B2BEB5;
+    }
+  .column{
+    display: inline-block;
+    height:300px;
+    width:200px;
+    background-color pink;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  .text{
+    text-align: center;
+    font-family:Lucida Handwriting;
+    margin-top: 49px;
+  }
+  </style>
+</head>
+<body>
+  <div class="top-column">
+    <h1 class="text">Valentine Flowers</h1>
+    </div>
+  <div class="column">Test1</div>
+  <div class="column">Test2</div>
+  <div class="column">Test3</div>
+  <div class="column">Test4</div>
+
+
+</body>
+</html>
